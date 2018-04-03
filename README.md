@@ -18,6 +18,7 @@ project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
 
+Please do not fork this respository, becaus it is just for demo.
 
 ### Copyright
 
