@@ -3,11 +3,11 @@
 
 # TEAM
 
-    HJK hjk@keute.de
+   HJK hjk@keute.de
 
 # THANKS
 
-    <name>
+   All my students! 
 
 # TECHNOLOGY COLOPHON
 
